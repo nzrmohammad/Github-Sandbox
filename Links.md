@@ -3,6 +3,13 @@
 Click on any link below to start downloading directly.
 
 ---
+📅 **2026-05-08 00:57 IR**
+
+📥 [Happ.apk](https://github.com/nzrmohammad/Github-Sandbox/raw/main/downloads/Happ.apk) ｜ 56M
+📥 [setup-Happ.x64.exe.z01](https://github.com/nzrmohammad/Github-Sandbox/raw/main/downloads/setup-Happ.x64.exe.z01) ｜ 90M
+📥 [setup-Happ.x64.exe.zip](https://github.com/nzrmohammad/Github-Sandbox/raw/main/downloads/setup-Happ.x64.exe.zip) ｜ 22M
+
+---
 📅 **2026-05-05 22:10 IR**
 
 📥 [PsiphonAndroid.apk](https://github.com/nzrmohammad/Github-Sandbox/raw/main/downloads/PsiphonAndroid.apk) ｜ 22M
