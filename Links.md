@@ -3,6 +3,11 @@
 Click on any link below to start downloading directly.
 
 ---
+📅 **2026-05-09 22:13 IR**
+
+📥 [NexAlloy-2.0.103.apk](https://github.com/nzrmohammad/Github-Sandbox/raw/main/downloads/NexAlloy-2.0.103.apk) ｜ 8.6M
+
+---
 📅 **2026-05-09 18:10 IR**
 
 📥 [mhrv-rs-windows-amd64.zip](https://github.com/nzrmohammad/Github-Sandbox/raw/main/downloads/mhrv-rs-windows-amd64.zip) ｜ 7.7M
