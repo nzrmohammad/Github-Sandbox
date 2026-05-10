@@ -9,6 +9,7 @@ Hiddify Android (https://github.com/hiddify/hiddify-app/releases/download/v4.1.1
 Happ Windows (https://github.com/Happ-proxy/happ-desktop/releases/latest/download/setup-Happ.x64.exe)
 V2rayN (https://github.com/2dust/v2rayN/releases/download/7.20.4/v2rayN-windows-64.zip)
 Hiddify Windows (https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Windows-Portable-x64.zip)
+oryxis Windows https://github.com/wilsonglasser/oryxis)
 
 
 Links
