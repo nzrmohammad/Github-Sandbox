@@ -3,6 +3,11 @@
 Click on any link below to start downloading directly.
 
 ---
+📅 **2026-05-14 09:37 IR**
+
+📥 [WhiteDNS-1.3.0-arm64-v8a.apk](https://github.com/nzrmohammad/Github-Sandbox/raw/main/downloads/WhiteDNS-1.3.0-arm64-v8a.apk) ｜ 5.3M
+
+---
 📅 **2026-05-13 08:43 IR**
 
 📥 [v2rayN-windows-64.zip.z01](https://github.com/nzrmohammad/Github-Sandbox/raw/main/downloads/v2rayN-windows-64.zip.z01) ｜ 90M
