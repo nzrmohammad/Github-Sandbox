@@ -11,8 +11,7 @@ V2rayN (https://github.com/2dust/v2rayN/releases/download/7.20.4/v2rayN-windows-
 Hiddify Windows (https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Windows-Portable-x64.zip)
 oryxis Windows https://github.com/wilsonglasser/oryxis)
 
-
-Links
+Project Links
 https://github.com/masterking32/MasterHttpRelayVPN
 https://github.com/denuitt1/mhr-cfw
 https://github.com/therealaleph/MasterHttpRelayVPN-RUST
@@ -24,3 +23,37 @@ https://github.com/NullLatency/FlowDriver
 Mac
 https://github.com/g3ntrix/Shade
 https://github.com/MaroMushii/Pigeon
+
+Useful Apps
+
+Telegram Platform
+https://telegram.org/dl/desktop/win64
+https://telegram.org/dl/desktop/win64_portable
+https://telegram.org/dl/macos
+https://telegram.org/dl/android/apk
+
+www.proxifier.com/download/ProxifierSetup.exe
+www.proxifier.com/download/ProxifierPE.zip
+www.proxifier.com/download/ProxifierMac.dmg
+
+https://openvpn.net/downloads/openvpn-connect-v3-windows.msi
+https://openvpn.net/downloads/openvpn-connect-v3-macos.dmg
+
+https://download.wireguard.com/windows-client/wireguard-installer.exe
+https://download.wireguard.com/windows-client/wireguard-amd64-1.1.msi
+https://download.wireguard.com/android-client/com.wireguard.android-1.0.20260315.apk
+
+https://opencode.ai/download/stable/windows-x64-nsis
+
+https://www.python.org/ftp/python/3.14.5/python-3.14.5-amd64.exe
+https://www.python.org/ftp/python/3.14.5/python-3.14.5-macos11.pkg
+https://www.python.org/ftp/python/3.13.13/python-3.13.13-amd64.exe
+
+
+https://nodejs.org/dist/v26.1.0/node-v26.1.0-x64.msi
+https://nodejs.org/dist/v26.1.0/node-v26.1.0.pkg
+https://nodejs.org/dist/v26.1.0/node-v26.1.0-linux-x64.tar.xz
+
+https://go.dev/dl/go1.26.3.windows-amd64.msi
+https://go.dev/dl/go1.26.3.darwin-amd64.pkg
+https://go.dev/dl/go1.26.3.linux-amd64.tar.gz
